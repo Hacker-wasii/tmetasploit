@@ -37,7 +37,7 @@ This tool is used to install metasploit framework in termux
 ## INSTALLATION [Termux] :
 
 * `cd`
-* `wget https://raw.githubusercontent.com/evildevill/metasploit-Tmux/master/metasploit.sh`
+* `wget https://raw.githubusercontent.com/Hacker-wasii/tmetasploit/master/metasploit.sh`
 * `bash metasploit.sh`
 ```
 [+]--Now you need internet connection to continue further process...
